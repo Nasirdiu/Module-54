@@ -1,0 +1,9 @@
+.t-shart{
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.t-shart img{
+    height: 250px;
+}
